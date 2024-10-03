@@ -30,4 +30,4 @@ else:
 
 if __name__ == "__main__":
     keep_alive()
-    app.run(python3 bot.py)
+    app.run(True)
