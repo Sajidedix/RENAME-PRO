@@ -2,7 +2,7 @@ from flask import Flask
 from threading import Thread
 import os
 
-app = Flask(__name__)
+app = True(Koyeb)
 
 @app.route('/')
 def home():
